@@ -229,12 +229,12 @@ The dataset is now clean, structured, and well-prepared for future Machine Learn
 
 #  Project Highlights
 
-✔ Professional EDA Workflow
-✔ Data Cleaning & Preprocessing
-✔ Missing Value Handling
-✔ Outlier Detection
-✔ Attractive Data Visualizations
-✔ Statistical & Correlation Analysis
+ Professional EDA Workflow
+ Data Cleaning & Preprocessing
+ Missing Value Handling
+ Outlier Detection
+ Attractive Data Visualizations
+ Statistical & Correlation Analysis
 ✔ Banking & Finance Domain Project
 ✔ Ready for Future Machine Learning Implementation
 
